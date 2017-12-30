@@ -11,7 +11,7 @@ const App = () => (
       header="NAYEEM H. ZEN"
       subheader="Software Consultant and Engineer"
     />
-    <Menu items={["about", "services", "blog", "resume"]}/>
+    <Menu/>
     <Content/>
     <Footer/>
   </div>
