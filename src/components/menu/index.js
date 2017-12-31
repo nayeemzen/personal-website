@@ -7,7 +7,7 @@ const Menu = () => (
     <NavLink activeStyle={{ color: '#4DB6AC' }} to="/about">about</NavLink>
     <NavLink activeStyle={{ color: '#4DB6AC' }} to="/services">services</NavLink>
     <a href="https://medium.com/@nayeemzen">blog</a>
-    <a href="https://goo.gl/E7MqMz">resume</a>
+    <a href="http://bit.ly/nayeem-zen-resume">resume</a>
   </div>
 );
 
