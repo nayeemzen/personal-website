@@ -15,8 +15,9 @@ const Services = () => (
       <section className="skills">
         <ul>
           <li>Mobile Development (Android/iOS)</li>
-          <li>Web Development (HTML, CSS, Javascript, React,)</li>
+          <li>Web Development</li>
           <li>Backend Development</li>
+          <li>UI prototyping and design</li>
           <li>Data Modeling/Schema Design</li>
           <li>Scalability Engineering/Distributed Systems</li>
           <li>Unit/Integration Testing Infrastructure</li>
