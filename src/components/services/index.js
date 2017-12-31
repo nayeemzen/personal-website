@@ -17,9 +17,10 @@ const Services = () => (
           <li>Mobile Development (Android/iOS)</li>
           <li>Web Development</li>
           <li>Backend Development</li>
-          <li>UI prototyping and design</li>
-          <li>Data Modeling/Schema Design</li>
+          <li>Microservices and Service Oriented Architecture</li>
           <li>Scalability Engineering/Distributed Systems</li>
+          <li>Data Modeling/Schema Design</li>
+          <li>UI prototyping and Design</li>
           <li>Unit/Integration Testing Infrastructure</li>
         </ul>
       </section>
